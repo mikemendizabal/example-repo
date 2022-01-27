@@ -1,3 +1,2 @@
-# example-repo
-I'm learning Git Hub
-I'm learning Swift
+# Example Repository
+This is a sample repo, hello world!
